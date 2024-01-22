@@ -1,0 +1,20 @@
+a{text-decoration: none;
+color: red}
+a:hover{
+color:mintcream ;
+    font-size: medium;
+    border-bottom: green 2px solid;
+    text-align: center;
+}
+body{background-color:  #173649 ;
+font-size: small;
+}
+#one{background-color:
+#a3bb1f;border-bottom: #a3bb1f;
+font-family: cursive;
+text-align: center}
+#three{font-family: cursive;
+font-size: medium;
+color:
+#08b09c
+}

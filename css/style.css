@@ -1,0 +1,33 @@
+body{
+    background-color: peachpuff;
+/*padding: 50px}*/
+    margin: 50px;}
+   p{
+       color: saddlebrown;
+   }
+   .one{color: green;
+       font-size: 40px;
+
+   }
+.two{border: crimson dashed;
+    font-size: xxx-large;
+    font-family: cursive;
+    font-weight: bolder ;
+    height: 10%;
+}
+.three{border:black 10px solid;
+font-size: math;
+font-family: cursive;
+    font-weight: initial;
+    border-radius: 10px;
+}
+.four {
+    border-radius: 20px 0px 10px;
+    border: olivedrab 10px solid;
+    padding: 50px;
+}
+a{color: saddlebrown}
+.five{border: yellow 10px solid;
+width: 60%;
+border-radius: 10px 0px 11px}
+.seven{text-underline: olivedrab}
